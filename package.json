@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "currency-converter-lt": "^1.2.3",
+    "currency-converter-lt": "^2.0.0",
     "enquirer": "^2.3.6"
   }
 }
