@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "currency-converter-lt": "^1.2.3",
-    "enquirer": "^2.3.6"
+    "enquirer": "^2.4.1"
   }
 }
